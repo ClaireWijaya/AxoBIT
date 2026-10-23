@@ -35,11 +35,11 @@ The learning material is in `Stage 1/Task 2 (GitHub Repository and Markdown Cont
 
 | File | Topic |
 |---|---|
-| `00-module-overview.md` | Module outline, learning outcomes and status of each topic |
-| `binary-search.md` | Algorithms: binary search |
-| `binary-search-game.html` | Interactive game for binary search (open in a browser) |
-| `stacks.md` | Data Structures: stacks |
-| `artificial-neuron.md` | Connectionist AI: the artificial neuron |
+| `PENDING` | Module outline, learning outcomes and status of each topic |
+| `PENDING` | Algorithms: binary search |
+| `PENDING` | Interactive game for binary search (open in a browser) |
+| `PENDING` | Data Structures: stacks |
+| `PENDING` | Connectionist AI: the artificial neuron |
 
 Images and diagrams are kept in an `assets` folder and linked with relative paths.
 
