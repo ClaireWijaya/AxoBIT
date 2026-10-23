@@ -6,7 +6,7 @@ AxoBIT is a team project for the course *Artificial Intelligence and Computer Sc
 
 The purpose of this project is to develop a beginner-friendly learning module introducing Algorithms, Data Structures, and Connectionist AI. The goal is to explain the main ideas of the module in a clear and simple way, with worked examples, visuals, practice questions and answers. 
 
-##Intended learners
+## Intended learners
 
 The intended learners are absolute beginners who have little or no prior knowledge of algorithms, data structures, or artificial intelligence. They may have no programming experience or only very basic computer skills. No previous knowledge of neural networks or machine learning is required. The materials will gradually progress from fundamental concepts to simple applications.
 
