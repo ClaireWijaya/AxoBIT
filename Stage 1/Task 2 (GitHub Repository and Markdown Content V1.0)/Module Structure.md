@@ -2,25 +2,10 @@
 
 ## 1. Target Learners
 
-This module is designed for beginners who have little to no experience with algorithms, data structures, and connectionist AI.
-
-The study guide follows a progressive learning approach, introducing concepts from a small scope before expanding to more complex topics. Each chapter will include step-by-step explanations, exercises or questions, and diagrams or charts where useful. A mini-project tutorial will integrate the three main areas: algorithms, data structures, and connectionist AI.
-
-Learners are expected to have basic arithmetic skills, understand simple mathematical relationships, and have some experience using a computer. Previous programming experience is not required.
+  Beginners who have little to no experience in algorithms, data structures, and connectionist AI fields. The specific study guide will have step-by-step explanations from a minor scope to a larger scope, provide exercises or questions on each chapter, give the visualization of a diagram or a chart, and a tutorial on a mini coding project that implies the three main subjects. Thus, beginners can study progressively. In assumption, beginners are able to perform basic arithmetic formulas, understand mathematical relationships, and have used a computer in their life.
 
 ## 2. Learning Goals
-
-By the end of the module, learners should be able to:
-
-1. Explain fundamental computer science concepts, computational thinking, and basic Python programming.
-2. Identify common data structures and explain their fundamental operations and uses.
-3. Understand algorithms as step-by-step procedures for solving problems.
-4. Implement and trace simple algorithms, including searching and sorting methods.
-5. Describe the basic concepts of artificial intelligence and machine learning.
-6. Explain the fundamental ideas behind connectionism and neural network architecture.
-7. Complete guided programming exercises and mini projects using Python.
-8. Apply problem-solving skills by combining algorithms, data structures, and AI concepts in practical activities.
-9. Evaluate their own understanding using chapter exercises, quizzes, and project outcomes.
+  Learners should have either knowledge and practical skills by the end of the learning session. Basic concepts such as definitions and implementations, simple programming Python, problem solving skills based on algorithms and data structure, and knowledge of AI should be mastered by learners. Technical skills are also improved after doing some basic projects on the study guide.
 
 ## 3. Content Outline and Planned Activities
 
