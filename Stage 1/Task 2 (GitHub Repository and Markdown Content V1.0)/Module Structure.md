@@ -9,40 +9,38 @@
 
 ## 3. Content Outline and Planned Activities
 
-The following statuses are provisional. They must be updated after checking the actual content of each chapter and its supporting files.
-
-| Section | Chapter | Main Topics | Planned Learning Activity | Initial Status |
-|---|---|---|---|---|
-| Foundations | 1. Introduction to Computer Science | Basic concepts and the role of computer science | Identify computational problems in everyday life | Outline only |
-| Foundations | 2. Computational Thinking on Problem Solving | Decomposition, pattern recognition, abstraction, and step-by-step solutions | Break a problem into smaller tasks | Outline only |
-| Foundations | 3. Python Foundations | Variables, data types, expressions, conditions, loops, and basic syntax | Write and trace a short Python program | Outline only |
-| Data Structures | 4. Introduction to Data Structures | Data organization and the purpose of data structures | Compare ways of organizing information | Outline only |
-| Data Structures | 5. The Fundamentals | Fundamental structures and operations | Trace operations on a simple data structure | Outline only |
-| Data Structures | 6. Advanced Data Structures | Introduction to more complex structures and their uses | Identify a suitable structure for a given problem | Outline only |
-| Algorithms | 7. Introduction to Algorithms | Algorithm definitions, inputs, outputs, and procedures | Express a simple solution as ordered steps | Outline only |
-| Algorithms | 8. Searching and Sorting | Search methods and sorting algorithms | Trace binary search or bubble sort step by step | Drafted — verify files |
-| Algorithms | 9. Algorithm Analysis | Efficiency and basic measures of algorithm performance | Compare the steps required by two approaches | Outline only |
-| Algorithms | 10. Recursion and Graph | Recursive problem solving and graph fundamentals | Trace a small recursive example or graph traversal | Outline only |
-| AI and Machine Learning | 11. Introduction to AI | AI concepts, applications, and limitations | Classify examples of AI applications | Outline only |
-| AI and Machine Learning | 12. About Machine Learning | Learning from data and introductory ML concepts | Identify features, data, and predictions in a simple example | Outline only |
-| AI and Machine Learning | 13. Evaluation | Evaluating model outputs and introductory performance measures | Interpret a simple model evaluation example | Outline only |
-| Connectionist AI and Neural Networks | 14. Connectionism | Connectionist ideas and distributed representations | Compare a simplified connectionist model with rule-based reasoning | Outline only |
-| Connectionist AI and Neural Networks | 15. Neural Network Architecture | Neurons, layers, weights, biases, and activation functions | Label the components of a simple neural network | Drafted — verify files |
-| Connectionist AI and Neural Networks | 16. Training and Evaluation | Training, model predictions, and evaluation | Trace a simplified training or prediction example | Outline only |
-| Mini Projects Guide | 17. Preparation | Project setup, Python environment, and required concepts | Prepare the environment and test a simple program | Outline only |
-| Mini Projects Guide | 18. Bubble Sort | Sorting logic, comparisons, swaps, and implementation | Implement and test bubble sort | Outline only |
-| Mini Projects Guide | 19. BFS Maze Explorer | Graph representation and breadth-first search (BFS) | Explore a maze using a step-by-step search | Outline only |
-| Mini Projects Guide | 20. Neural Network Classifier | Basic classification using a neural network | Build or follow a beginner-level classifier tutorial | Outline only |
-| Appendices | — | Glossary, supplementary explanations, and learning support | Review key terminology | Outline only |
-| References | — | Sources used throughout the module | Locate and verify supporting sources | Needs development |
+  - Foundations
+    + Chapter 1 → Introduction to Computer Science
+    + Chapter 2 → Computational Thinking on Problem Solving
+    + Chapter 3 → Python Foundations
+  - Data Structures
+    + Chapter 4 → Introduction to Data Structures
+    + Chapter 5 → The Fundamentals
+    + Chapter 6 → Advanced Data Structures
+  - Algorithms
+    + Chapter 7 → Introduction to Algorithms
+    + Chapter 8 → Searching and Sorting
+    + Chapter 9 → Algorithm Analysis
+    + Chapter 10 → Recursion and Graph
+  - AI and Machine Learning
+    + Chapter 11 → Introduction to AI 
+    + Chapter 12 → About Machine Learning
+    + Chapter 13 → Evaluation
+  - Connectionist AI and Neural Networks
+    + Chapter 14 → Connectionism
+    + Chapter 15 → Neural Network Architecture 
+    + Chapter 16 → Training and Evaluation
+  - Mini Projects Guide
+    + Chapter 17 → Preparation
+    + Chapter 18 → Bubble Sort
+    + Chapter 19 → BFS Maze Explorer
+    + Chapter 20 → Neural Network Classifier
+  - Appendices: Glossary, list of important theories and codes
+  - References: Sources that are used to create the contents
 
 ## 4. Scope Boundaries
 
-The study guide will prioritize detailed explanations of concepts that are essential for understanding the later chapters and completing the mini projects. These include computational thinking, basic Python, fundamental data structures, searching and sorting, introductory AI and machine learning, and the basic principles of neural networks.
-
-Advanced data structures, algorithm analysis, recursion and graphs, connectionism, and more advanced neural network concepts will initially receive introductory or carefully scoped explanations. Their depth will depend on their relevance to the learning objectives and practical projects.
-
-The scope may be adjusted as the team reviews the learning sequence, identifies prerequisite knowledge, and tests the materials with beginner learners. Any major changes should be documented by the team.
+The study guide will prioritize detailed explanations of concepts that are essential for understanding the later chapters and completing the mini projects. These include computational thinking, basic Python, fundamental data structures, searching and sorting, introductory AI and machine learning, and the basic principles of neural networks. Advanced data structures, algorithm analysis, recursion and graphs, connectionism, and more advanced neural network concepts will initially receive introductory or carefully scoped explanations. Their depth will depend on their relevance to the learning objectives and practical projects. The scope may be adjusted as the team reviews the learning sequence, identifies prerequisite knowledge, and tests the materials with beginner learners. Any major changes should be documented by the team.
 
 ## 5. Planned Learning Resources
 
