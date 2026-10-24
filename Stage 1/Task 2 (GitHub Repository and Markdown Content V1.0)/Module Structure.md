@@ -72,18 +72,14 @@ g draft. Chapter-level statuses and review outcomes must be confirmed against th
 
 - Content Application
   + Application in Study Guide
-    → All key concept and definitions from developed material will be included. Examples, such as mini projects, will help learners understand how the concepts can be applied in practice. Summaries and practice questions will make the study guide useful for the learners to review it effectively and assess their understanding. 
+    - All key concept and definitions from developed material will be included. Examples, such as mini projects, will help learners understand how the concepts can be applied in practice. Summaries and practice questions will make the study guide useful for the learners to review it effectively and assess their understanding. 
   + Application in PPT Slides
-    → To avoid overcrowding the PPT with text and potentially overwhelming the learners, we plan to show concepts visually in diagrams, tables, flowchart and short bullet points.
-    → Diagrams and flowcharts can be used to show steps that are more complicated
-Tables can be used to compare and contrast terms that are harder to differentiate.
-    → Short bullet points are used so PPT wont be text heavy & have unnecessary words that may distract learners from main ideas, concepts or points.
+    - To avoid overcrowding the PPT with text and potentially overwhelming the learners, we plan to show concepts visually in diagrams, tables, flowchart and short bullet points.
+    - Diagrams and flowcharts can be used to show steps that are more complicated.
+    - Tables can be used to compare and contrast terms that are harder to differentiate.
+    - Short bullet points are used so PPT wont be text heavy & have unnecessary words that may distract learners from main ideas, concepts or points.
   + Application in Video Tutorial
-    → To avoid overcrowding the PPT with text and potentially overwhelming the learners, we plan to show concepts visually in diagrams, tables, flowchart and short bullet points.
-    → Diagrams and flowcharts can be used to show steps that are more complicated.
-    → Tables can be used to compare and contrast terms that are harder to differentiate.
-    → Short bullet points are used so PPT wont be text heavy & have unnecessary words that may distract learners from main ideas, concepts or points.
-
-
-
-
+    - To avoid overcrowding the PPT with text and potentially overwhelming the learners, we plan to show concepts visually in diagrams, tables, flowchart and short bullet points.
+    - Diagrams and flowcharts can be used to show steps that are more complicated.
+    - Tables can be used to compare and contrast terms that are harder to differentiate.
+    - Short bullet points are used so PPT wont be text heavy & have unnecessary words that may distract learners from main ideas, concepts or points.
