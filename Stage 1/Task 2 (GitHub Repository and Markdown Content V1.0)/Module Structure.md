@@ -82,4 +82,4 @@ g draft. Chapter-level statuses and review outcomes must be confirmed against th
     - To avoid overcrowding the PPT with text and potentially overwhelming the learners, we plan to show concepts visually in diagrams, tables, flowchart and short bullet points.
     - Diagrams and flowcharts can be used to show steps that are more complicated.
     - Tables can be used to compare and contrast terms that are harder to differentiate.
-    - Short bullet points are used so PPT wont be text heavy & have unnecessary words that may distract learners from main ideas, concepts or points.
+    - Short bullet points are used so PPT won't be text heavy & have unnecessary words that may distract learners from main ideas, concepts or points.
