@@ -155,3 +155,57 @@ The team will test the study guide by asking members to use it as beginner learn
 - Claire (CIO): Collects GitHub contribution evidence and prepares/verifies the final submission package.
 - Katherine (CEO): Conducts final checks and coordinates team submission
 
+## E. Master Task List
+### Task 1: Team Project Plan and Task List
+
+| Section | Task | Expected Result | Responsible Member(s) | Internal Deadline | Status |
+|---|---|---|---|---|---|
+| A. Team Information and Responsibilities | Complete the team information and the responsibilities of the six members. | Section written with all six members and their roles. | Everyone | 23 Oct | Done |
+| B. Project Scope and Learning Goals | Define the project scope and the learning goals. | Target learners, learning outcomes, topic outline, scope and teacher questions. | MJ | 23 Oct | Done |
+| C. Planned Learning Resources and Mini Lecture | List the planned learning resources and plan the mini lecture. | Resource plan, shared Markdown structure and mini-lecture with example/activity. | Eva | 23 Oct | Done |
+| D. Workflow, Schedule, and Coordination | Define the team workflow, the schedule and how members coordinate. | Workflow, schedule, checkpoints, coordination process and risk responses. | Clarissa | 23 Oct | Done |
+| E. Master Task List | Build the Master Task List for the whole project, Stage 1 in detail by now. | Master task list with actions, outputs, owners, deadlines, statuses and dependencies. | Katherine | 23 Oct | Done |
+| F. Quality Check | Check Task 1 (A to E) against the assignment requirements. | Checklist review, corrections, member approval, GitHub link and AI-planning record. | Marvel | 23 Oct | Done |
+
+### Task 2: GitHub Repository and Markdown Content V1.0
+
+| Section | Task | Expected Result | Responsible Member(s) | Internal Deadline | Status |
+|---|---|---|---|---|---|
+| A. Establish and Organize the Repository | Make a new repository and have all members store their project in it (details on Lexue). | Repository created and organized, with the project of all six members in it. | Claire (lead); Katherine helps with the contents needed. | 23 Oct | Done |
+| B. Develop the Module Structure | Develop the module structure in the repository. | Module structure created. | MJ | 23 Oct | Done |
+| C. Write Substantive Markdown Content V1.0 | Write the substantive Markdown content for version 1.0. | Markdown Content V1.0 uploaded to the repository. | MJ | 23 Oct | Done |
+| D. Check the Content and Plan Its Use | Check the V1.0 content and plan how it will be used. | Content review notes and plan for reusing content in the Study Guide, PPT and videos. | Clarissa and Eva | 23 Oct | Done |
+| E. Provide Evidence of GitHub Use and Contributions | Collect evidence of GitHub use and of each member's contributions. Check the submission requirements (no need for much research). | Captioned evidence of repository structure, commits, contributions and review. | Claire | 23 Oct | Done |
+| F. Quality Check | Check Task 2 (A to E) against the assignment requirements. | Checked Task 2, corrections sent to the section owners. | Marvel | 23 Oct | Done |
+
+### Task 3: Project Log and Meeting Summaries
+
+**Working file:** [Project Log and Meeting Summaries Task 3](https://docs.google.com/spreadsheets/d/1BqruUZxdM4eB7GoNIHdWiUz9xlOlG12XHoNE1IOakFg/edit?usp=sharing) (spreadsheet).
+
+| Section | Task | Expected Result | Responsible Member(s) | Internal Deadline | Status |
+|---|---|---|---|---|---|
+| A. Project Log | Record the work as it happens, in chronological order: when, what was done and by whom, what resulted, what was learned, what is unresolved and what comes next. | Dated, specific entries from the start of the project to 24 Oct, each with readable evidence. | Everyone (own work) | 23 Oct | Done |
+| B. Meeting Summaries | Write a short summary of each substantive meeting: date, time and place, attendees and absentees, purpose, key points, decisions and follow-up actions. | A summary for every meeting held, starting with 18/10/2026. | Claire, MJ, and Katherine | 23 Oct | Done |
+| C. Evidence of Work | Include evidence directly. Explain briefly what each item demonstrates. | Readable excerpts or screenshots of developed content. Before-and-after examples showing a correction or improvement. | Claire, MJ, and Katherine | 23 Oct | Done |
+| D. Significant AI Use | Record the team's significant AI use in the AI Records sheet. | AI Records sheet filled in. | Everyone (own AI use) | 23 Oct | Done |
+| E. Team Member Contributions | Include a contribution table covering Stage 1 only. | Member's name and student ID, main contributions, relative contribution score, and supporting evidence. | Everyone (review together) | 23 Oct | Done |
+| F. Quality Check | Check Task 3 (A to E) against the assignment requirements. | Checked Task 3, corrections sent to the section owners. | Marvel | 23 Oct | Done |
+
+### Task 4: Personal Learning and Work Log
+
+**Official deadline:** 24 October 2026, 23:59 (Beijing time).
+
+**Working file:** [AxoBIT_Stage1_Task4_ProjectPlan](https://docs.google.com/document/d/1lIzYbvJp424JIvksUNP2MJCpnaMNPbmTLSJ1juKrV0s/edit?usp=sharing) (one section per member).
+
+| Section | Task | Expected Result | Responsible Member(s) | Internal Deadline | Status |
+|---|---|---|---|---|---|
+| A. Write the Personal Logs | Each member writes their own log in their own words: dated entries, evidence next to each entry, and an AI Use record for significant AI use. | Six completed personal logs. | Everyone (own log) | 23 Oct | Done |
+| B. Check and Assemble the Team Submission | Check that each log has dated entries, evidence and AI Use records, then collect the six logs into one team submission. | One team submission with all six logs, sent before the deadline. | Marvel | 23 Oct | Done |
+
+### Task 5: Live Status Report
+
+**Official deadline:** 30 October 2026.
+
+| Section | Task | Expected Result | Responsible Member(s) | Internal Deadline | Status |
+|---|---|---|---|---|---|
+| Live Status Report | Prepare and give the Live Status Report (final presentation). | Live Status Report presented. | Claire | 28 Oct | In Progress |
