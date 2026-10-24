@@ -3,6 +3,18 @@
 
 # TASK 1
 ## A. Team Introduction
+# Team Members and Responsibilities
+
+| Student ID - Name | Strengths/Skills | Role and Responsibility | GitHub Account |
+|---|---|---|---|
+| 1820262022<br>柯思琳 (Katherine) | - Organizational leadership<br>- Creative Analysis<br>- Agile Development | **CEO**<br>→ Define project goals, assign responsibilities, and coordinate team members. | Kakobit |
+| 1820262169<br>叶美娟 (MJ) | - Critical thinking<br>- Information curation<br>- Instructional design | **Content Lead**<br>→ Checks scopes, creates materials structure, and researches explanations. | YeMJforBIT |
+| 1820262174<br>沈美珍 (Clarissa) | - Design software skills<br>- Diagram infographic making<br>- Visual Communication and Layout Design | **Visual Design Lead**<br>→ Design clear and consistent layouts. Create diagrams and infographics. Maintain visual consistency across all learning materials. | clarisiim |
+| 1820262198<br>钱建亮 (Marvel) | - Spotting mistakes in the work.<br>- Analysing work and seeing what should be improved.<br>- Proofreading the work to see if it follows exactly as it should. | **Quality Lead**<br>→ Validating the quality of the work. Check if the work follows the requirements given. | DetronDestroyer |
+| 1820262200<br>黄文铭 (Claire) | - GitHub repository management<br>- File and documentation organization<br>- Submission coordination and attention to detail | **CTO**<br>→ Establish and maintain the shared GitHub repository, organize project files and documentation, collect evidence of GitHub contributions, and prepare and verify the final submission package. | ClaireWijaya |
+| 1820262223<br>周珊妮 (Eva) | - Video Directing<br>- Content Development<br>- Attention to Detail | **Video Lead**<br>→ Plan, direct, and edit video to a more engaging and understandable visual content. | evacangelia-maker |
+
+**GitHub Repository:** [ClaireWijaya/AxoBIT](https://github.com/ClaireWijaya/AxoBIT)
 ## B. Project Scope and Learning Goals (MJ)
 1. Target Learners
 
