@@ -109,6 +109,7 @@ The team will test the study guide by asking members to use it as beginner learn
 + Develop accompanying presentation slides for the course.
 + Create and record the accompanying instructional videos.
 + Rehearse the mini-lecture.
+
 **Stage 3: Review, Revision, and Final Delivery**
 - Internal Checkpoint: November 24, 2026
 - Official Deadline: November 28, 2026
