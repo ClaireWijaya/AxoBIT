@@ -120,3 +120,24 @@ The team will test the study guide by asking members to use it as beginner learn
 + Review all drafts, slides, videos, and mini-projects across the team.
 + Revise materials based on feedback and polish content.
 + Complete final delivery of the project package.
+
+3. Coordination
+
+**Stage 1: Planning & Scope Sign-off**
+
+- Katherine (CEO): Oversees overall goals, assigns initial tasks, and secures scope sign-off from all members.
+- MJ (Content Lead): Finalizes the scope, structure, and Markdown skeleton for Chapters 1–20 and Appendices.
+- Claire (CIO): Sets up and organizes the shared GitHub repository and documentation structure.
+
+**Stage 2: First Full Drafts & Rehearsal**
+- MJ (Content Lead): Researches and writes full draft content for the guide (Chapters 1–20 and Mini Projects).
+- Clarissa (Visual Design Lead): Designs presentation slide layouts, diagrams, and infographics for learning materials.
+- Eva (Video Lead): Plans, directs, and edits instructional video content; coordinates mini-lecture rehearsal.
+
+
+**Stage 3: Review, Revision & Final Delivery**
+- Marvel (Quality Lead): Proofreads, reviews, and validates all drafts, slides, and videos against requirements.
+- Clarissa & Eva: Implement visual and video revisions based on feedback.
+- Claire (CIO): Collects GitHub contribution evidence and prepares/verifies the final submission package.
+- Katherine (CEO): Conducts final checks and coordinates team submission
+
