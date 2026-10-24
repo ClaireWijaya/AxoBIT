@@ -63,3 +63,27 @@
 ### 4) Planned Examples, Demonstrations, Questions, or Activities
   The study guide uses real-life cases and analogies or metaphors for examples, such as linking neural networks to brain neurons. It also has some multiple-questions on each chapter and game with questions, answers, and explanations in it inspired by Duolingo. Moreover, the study guide has mini projects based on the materials so learners not only have theoretical knowledge, but also practical skills.
 g draft. Chapter-level statuses and review outcomes must be confirmed against the actual repository before submission.
+### Content Check and Its Application
+- Content Inspection
+  + I reviewed the first chapter of the developed module, “Introduction Computer Science”. This chapter covers several sections, including the definition of a computer, the fundamentals and history of computer science, and applied computer science. After reviewing the content against the provided references and other reliable resources, the information was factually accurate and relevant to the topics discussed.
+  + The content uses beginner friendly language that makes the explanation easy to understand. At the end of each section includes a glossary of complex terms, helping learners understand unfamiliar terminology and follow the explanations with ease.
+  + The module provides exercise such as multiple choice questions, with an answer key at the end. The question relates to the material presented in the chapter and allows learners to evaluate their understanding of the concepts covered.
+  + The provided sources, references, images, and file links that are provided support the content.
+
+- Content Application
+  + Application in Study Guide
+    → All key concept and definitions from developed material will be included. Examples, such as mini projects, will help learners understand how the concepts can be applied in practice. Summaries and practice questions will make the study guide useful for the learners to review it effectively and assess their understanding. 
+  + Application in PPT Slides
+    → To avoid overcrowding the PPT with text and potentially overwhelming the learners, we plan to show concepts visually in diagrams, tables, flowchart and short bullet points.
+    → Diagrams and flowcharts can be used to show steps that are more complicated
+Tables can be used to compare and contrast terms that are harder to differentiate.
+    → Short bullet points are used so PPT wont be text heavy & have unnecessary words that may distract learners from main ideas, concepts or points.
+  + Application in Video Tutorial
+    → To avoid overcrowding the PPT with text and potentially overwhelming the learners, we plan to show concepts visually in diagrams, tables, flowchart and short bullet points.
+    → Diagrams and flowcharts can be used to show steps that are more complicated.
+    → Tables can be used to compare and contrast terms that are harder to differentiate.
+    → Short bullet points are used so PPT wont be text heavy & have unnecessary words that may distract learners from main ideas, concepts or points.
+
+
+
+
