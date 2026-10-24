@@ -46,7 +46,7 @@
 4. Scope Boundaries
    Topics that need a detailed explanation are the fundamentals and topics that are important for further understanding. The main ideas are about problem solving, basic python, data structures fundamentals, algorithm and sorting, AI, machine learning, and neural networks. Those that only need a brief introduction are much more advanced theoretical information, such as topics in advanced data structures, recursion and graph, connectionism, and algorithm analysis. The depth of each topic can be adjusted further depending on its importance to the overall study guide and practical projects.
 ---
-## Planned Learning Resources and Mini Lecture (Eva)
+## C. Planned Learning Resources and Mini Lecture (Eva)
 - Shared Markdown Content
    + Each topic will be divided into chapters, organized from the basic to advanced. As along the way learners will learn key terms and fundamental concepts before moving on to more complex ideas. This structure will help learners grasp the information presented in PPT slides and video tutorials.
    + Each chapter will include detailed explanation and fundamental concepts that are essential for further learning. Short quizzes at the end of each chapter can help learners evaluate the materials.
@@ -71,7 +71,7 @@
    + By the end of the lecture, the audience should have a grasp on the key concepts covered and are able to apply their knowledge when completing the mini projects.
 ---
 
-## Workflow, Schedule, & Coordination (Clarissa)
+## A. Workflow, Schedule, & Coordination (Clarissa)
 
 1. Workflow
 
