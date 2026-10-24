@@ -92,24 +92,26 @@ The team will test the study guide by asking members to use it as beginner learn
 
 2. Schedule
 **Stage 1: Planning and Scoping**
-Internal Checkpoint: October 22, 2026
-Official Deadline: October 24, 2026
-+ Tasks to be Done:
-Finalize and sign off on the project scope with all team members.
-Create and complete the content outline (Foundations, Data Structures, Algorithms, AI/ML, Neural Networks, Mini Projects, and Appendices/References).
-Set up the Markdown skeleton for the course materials/guide.
-Stage 2: Content Creation and First Drafts
-Internal Checkpoint: November 4, 2026
-Official Deadline: November 7, 2026
-Tasks to be Done:
-Write the first full drafts for the content guide (Chapters 1–20).
-Develop accompanying presentation slides for the course.
-Create and record the accompanying instructional videos.
-Rehearse the mini-lecture.
-Stage 3: Review, Revision, and Final Delivery
-Internal Checkpoint: November 24, 2026
-Official Deadline: November 28, 2026
-Tasks to be Done:
-Review all drafts, slides, videos, and mini-projects across the team.
-Revise materials based on feedback and polish content.
-Complete final delivery of the project package.
+- Internal Checkpoint: October 22, 2026
+- Official Deadline: October 24, 2026
+  
+- *Tasks to be Done:*
++ Finalize and sign off on the project scope with all team members.
++ Create and complete the content outline (Foundations, Data Structures, Algorithms, AI/ML, Neural Networks, Mini Projects, and Appendices/References).
++ Set up the Markdown skeleton for the course materials/guide.
+
+**Stage 2: Content Creation and First Drafts**
+- Internal Checkpoint: November 4, 2026
+- Official Deadline: November 7, 2026
+-*Tasks to be Done:*
++ Write the first full drafts for the content guide (Chapters 1–20).
++ Develop accompanying presentation slides for the course.
++ Create and record the accompanying instructional videos.
++ Rehearse the mini-lecture.
+**Stage 3: Review, Revision, and Final Delivery**
+- Internal Checkpoint: November 24, 2026
+- Official Deadline: November 28, 2026
+- *Tasks to be Done:*
++ Review all drafts, slides, videos, and mini-projects across the team.
++ Revise materials based on feedback and polish content.
++ Complete final delivery of the project package.
