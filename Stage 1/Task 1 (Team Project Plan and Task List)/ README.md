@@ -70,3 +70,18 @@
    + During the mini lecture, questions will be posed to the audience to encourage participation and engagement. These questions will encourage learners to predict what comes next and apply their understanding of the topics.
    + By the end of the lecture, the audience should have a grasp on the key concepts covered and are able to apply their knowledge when completing the mini projects.
 ---
+
+##Workflow, Schedule, & Coordination
+
+1. Workflow
+
+- Step 1: Study and investigate the content
+All team members will review the relevant course materials and identify the key concepts, terminology, and examples related to Algorithms, Data Structures, and Connectionist AI. Each member will research their assigned topics using reliable textbooks, lecture notes, and academic or educational resources. Members will record useful references and clarify difficult concepts with one another or the teacher.
+- Step 2: Develop the shared Markdown content
+The team will create a consistent Markdown structure for the study guide, including learning objectives, concept explanations, worked examples, diagrams where appropriate, practice questions, and references. Each member will draft their assigned sections using the shared format. The team will agree on terminology, formatting, and the expected level of difficulty before combining the sections.
+- Step 3: Check and consolidate the content
+Members will review one another's work for technical accuracy, clarity, completeness, and suitability for beginners. Algorithm explanations and data structure operations will be checked using worked examples or pseudocode. Connectionist AI explanations will be checked for correct descriptions of neural networks, neurons, weights, activation functions, and learning processes. Any unclear or disputed points will be discussed before the content is approved.
+- Step 4: Prepare the study guide and practice materials
+After the Markdown content has been reviewed, the team will organize it into a coherent study guide. Each major topic will include explanations, examples, and practice questions where appropriate. A test bank will be developed to help learners check their understanding, with answers and brief explanations for self-assessment.
+- Step 5: Collect feedback and revise
+The team will test the study guide by asking members to use it as beginner learners and attempt the practice questions without relying on the answers. Feedback will be recorded, and corrections will be made to the shared Markdown source before updating the study guide and any related slides or video tutorials.
