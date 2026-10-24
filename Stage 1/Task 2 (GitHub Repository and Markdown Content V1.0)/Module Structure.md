@@ -63,7 +63,7 @@
 ### 4) Planned Examples, Demonstrations, Questions, or Activities
   The study guide uses real-life cases and analogies or metaphors for examples, such as linking neural networks to brain neurons. It also has some multiple-questions on each chapter and game with questions, answers, and explanations in it inspired by Duolingo. Moreover, the study guide has mini projects based on the materials so learners not only have theoretical knowledge, but also practical skills.
 g draft. Chapter-level statuses and review outcomes must be confirmed against the actual repository before submission.
-### Content Check and Its Application
+### 5) Content Check and Its Application
 - Content Inspection
   + I reviewed the first chapter of the developed module, “Introduction Computer Science”. This chapter covers several sections, including the definition of a computer, the fundamentals and history of computer science, and applied computer science. After reviewing the content against the provided references and other reliable resources, the information was factually accurate and relevant to the topics discussed.
   + The content uses beginner friendly language that makes the explanation easy to understand. At the end of each section includes a glossary of complex terms, helping learners understand unfamiliar terminology and follow the explanations with ease.
