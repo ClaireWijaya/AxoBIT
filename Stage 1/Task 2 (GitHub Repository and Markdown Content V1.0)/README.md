@@ -35,24 +35,20 @@ Everything for Stage 1 is inside the `Stage 1` folder, with one folder per task:
 
 ## Where to find the content
 
-The learning material is in `Stage 1/Task 2 (GitHub Repository and Markdown Content V1.0)/content/`:
+The learning material is in `Stage 1/Task 2/V1.0`:
 
 | File | Topic |
 |---|---|
-| `PENDING` | Module outline, learning outcomes and status of each topic |
-| `PENDING` | Algorithms: binary search |
-| `PENDING` | Interactive game for binary search (open in a browser) |
-| `PENDING` | Data Structures: stacks |
-| `PENDING` | Connectionist AI: the artificial neuron |
-
-Images and diagrams are kept in an `assets` folder and linked with relative paths.
+| `Done` | Module outline, learning outcomes and status of each topic |
+| `Done` | Algorithms: binary search |
+| `Done` | Interactive game for binary search (open in a browser) |
+| `Done` | Data Structures: stacks |
+| `Done` | Connectionist AI: the artificial neuron |
 
 ## Project plan and task list
 
-The plan and the Master Task List are in `Stage 1/Task 1 (Team Project Plan and Task List)`.
+The plan and the Master Task List are in `Stage 1/Task 1 `.
 
 ## Current progress and remaining work
 
 **Done (Stage 1, V1.0):** module outline, and three topics drafted (binary search, stacks, the artificial neuron).
-
-**Remaining:** [update before submitting] six topics are outline only, the content still needs peer review, and the test bank, slides and video tutorials are not started. The part about how a neuron learns is not written yet.
