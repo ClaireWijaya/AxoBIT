@@ -111,6 +111,7 @@ The team will test the study guide by asking members to use it as beginner learn
 + Write the first full drafts for the content guide (Chapters 1–20).
 + Develop accompanying presentation slides for the course.
 + Create and record the accompanying instructional videos.
++ Review all materials before lecture to prevent misinforming learners
 + Rehearse the mini-lecture.
 
 **Stage 3: Review, Revision, and Final Delivery**
