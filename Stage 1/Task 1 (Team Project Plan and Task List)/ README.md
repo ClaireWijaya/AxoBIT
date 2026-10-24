@@ -56,6 +56,7 @@
   + The study guide will follow the same as shared Markdown to maintain consistency and avoid confusing learners.
   + Practice activities include multiple choice questions, Python coding exercises, and step-by-step problem solving exercises. At the end of the study guide, a mini quiz game will review the fundamental concepts covered throughout the learning materials.
   + Answers and explanations will be provided to help learners evaluate their understanding, identify mistakes, and review concepts they find difficult.
+  + We have also developed a mini-quiz game with multiple stages, featuring questions and explanations to help learners review.
 - PPT Slides
    + The PPT slides will include visual elements to aid beginners in understanding, including visual representations of how Algorithms, Data Structures and Connectionist AI works. Diagrams will be shown where needed to help understanding but minimized to not be overwhelming for beginners.
    + Slides will be designed according to theme and neatly, keeping it short and easy to digest instead of long and informative which can be overwhelming and demotivate new learners.
