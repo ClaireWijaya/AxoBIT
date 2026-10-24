@@ -83,7 +83,7 @@
    + By the end of the lecture, the audience should have a grasp on the key concepts covered and are able to apply their knowledge when completing the mini projects.
 ---
 
-## A. Workflow, Schedule, & Coordination (Clarissa)
+## D. Workflow, Schedule, & Coordination (Clarissa)
 
 1. Workflow
 
