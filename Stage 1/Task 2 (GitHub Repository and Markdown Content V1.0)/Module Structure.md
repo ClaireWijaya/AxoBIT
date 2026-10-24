@@ -1,88 +1,65 @@
-# Module Structure: Algorithms, Data Structures, and Connectionist AI
+# Develop Module Structure: Algorithms, Data Structures, and Connectionist AI
 
-## 1. Target Learners
+## B. Develop the Module Structure
 
-  Beginners who have little to no experience in algorithms, data structures, and connectionist AI fields. The specific study guide will have step-by-step explanations from a minor scope to a larger scope, provide exercises or questions on each chapter, give the visualization of a diagram or a chart, and a tutorial on a mini coding project that implies the three main subjects. Thus, beginners can study progressively. In assumption, beginners are able to perform basic arithmetic formulas, understand mathematical relationships, and have used a computer in their life.
-
-## 2. Learning Goals
-  Learners should have either knowledge and practical skills by the end of the learning session. Basic concepts such as definitions and implementations, simple programming Python, problem solving skills based on algorithms and data structure, and knowledge of AI should be mastered by learners. Technical skills are also improved after doing some basic projects on the study guide.
-
-## 3. Content Outline and Planned Activities
-
+### 1) Intended Learning Outcome 
+  - The  outcomes aim to develop both foundational knowledge and practical problem-solving skills that learners can build upon in further study. Learners should be able to:
+  - Understand the fundamental concepts of computer science, algorithms, data structures, artificial intelligence, and neural networks
+  - Apply basic Python programming skills, use computational thinking to solve problems, and understand how different data structures and algorithms work and how to compare their efficiency
+  - Explain the basic principles of machine learning and neural networks, including how models learn from data and how their performance can be evaluated
+  - Through the mini projects, learners should gain practical experience in writing, testing, and debugging Python programs, implementing basic algorithms, using breadth-first search (BFS) to solve a simple maze, and training and evaluating a basic neural network classifier. 
+### 2) Detailed Content Outline + Development Status
   - Foundations
-    + Chapter 1 → Introduction to Computer Science
-    + Chapter 2 → Computational Thinking on Problem Solving
-    + Chapter 3 → Python Foundations
+    + [CHECKED] Chapter 1 → Introduction to Computer Science 
+      What’s a computer, about computer science and its history, and applied computer science
+    + [OUTLINE ONLY] Chapter 2 → Computational Thinking on Problem Solving 
+      Decomposition, pattern recognition, abstraction, algorithms, pseudocode, and flowcharts
+    + [OUTLINE ONLY] Chapter 3 → Python Foundations 
+      Variables, data types, operators, conditions, loops, functions, parameters, return values, lists, errors, debugging 
   - Data Structures
-    + Chapter 4 → Introduction to Data Structures
-    + Chapter 5 → The Fundamentals
-    + Chapter 6 → Advanced Data Structures
+    + [OUTLINE ONLY] Chapter 4 → Introduction to Data Structures 
+      What data structures are, abstract data types, operations such as access, search, insertion, and deletion 
+    + [OUTLINE ONLY] Chapter 5 → The Fundamentals
+      Lists and arrays, strings, tuples, dictionaries and hash tables, sets, using Python 
+    + [OUTLINE ONLY] Chapter 6 → Advanced Data Structures
+      Linked lists, stacks, queues, trees, binary trees, heaps, basic graph concepts
   - Algorithms
-    + Chapter 7 → Introduction to Algorithms
-    + Chapter 8 → Searching and Sorting
-    + Chapter 9 → Algorithm Analysis
-    + Chapter 10 → Recursion and Graph
+    + [OUTLINE ONLY] Chapter 7 → Introduction to Algorithms
+      Definition, benefits, examples 
+    + [OUTLINE ONLY] Chapter 8 → Searching and Sorting
+      Linear search, binary search and its sorted-data requirement, Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, basic comparison of methods 
+    + [OUTLINE ONLY] Chapter 9 → Algorithm Analysis
+      Best and worst cases, time and space complexity, Big O, common growth rates. Brief explanation on average cases, measuring runtime, limits of theoretical comparisons 
+    + [OUTLINE ONLY] Chapter 10 → Recursion and Graph
+      Base and recursive cases, brief about recursion versus iteration, graph vertices and edges, adjacency lists, BFS, brief about DFS, visited nodes, path reconstruction, unweighted shortest paths 
   - AI and Machine Learning
-    + Chapter 11 → Introduction to AI 
-    + Chapter 12 → About Machine Learning
-    + Chapter 13 → Evaluation
+    + [OUTLINE ONLY] Chapter 11 → Introduction to AI 
+      Definitions and scope, machine learning, examples, and limitations
+    + [OUTLINE ONLY] Chapter 12 → About Machine Learning
+      Supervised, unsupervised, and reinforcement learning, features and labels, classification and regression, datasets, basic model training. Brief of validation and test sets 
+    + [OUTLINE ONLY] Chapter 13 → Evaluation
+      Generalization, overfitting and underfitting, accuracy and its limitations, confusion matrices. Brief about data leakage.
   - Connectionist AI and Neural Networks
-    + Chapter 14 → Connectionism
-    + Chapter 15 → Neural Network Architecture 
-    + Chapter 16 → Training and Evaluation
+    + [OUTLINE ONLY] Chapter 14 → Connectionism
+      What is connectionism, inspiration from biological neurons and the limitations of that analogy, artificial neurons, inputs, weights, bias, activation functions 
+    + [OUTLINE ONLY] Chapter 15 → Neural Network Architecture 
+      Layers, perceptrons, multilayer perceptrons (MLPs), forward propagation, predictions, loss functions, gradient descent, backpropagation, epochs, and learning rate 
+    + [OUTLINE ONLY] Chapter 16 → Training and Evaluation
+      Data preparation, scaling features, train/test separation, reproducibility, use Python to train and evaluate a simple neural network. Brief of CNNs, RNNs, transformers, limitations, and responsible use 
   - Mini Projects Guide
-    + Chapter 17 → Preparation
-    + Chapter 18 → Bubble Sort
-    + Chapter 19 → BFS Maze Explorer
-    + Chapter 20 → Neural Network Classifier
-  - Appendices: Glossary, list of important theories and codes
-  - References: Sources that are used to create the contents
-
-## 4. Scope Boundaries
-
-The study guide will prioritize detailed explanations of concepts that are essential for understanding the later chapters and completing the mini projects. These include computational thinking, basic Python, fundamental data structures, searching and sorting, introductory AI and machine learning, and the basic principles of neural networks. Advanced data structures, algorithm analysis, recursion and graphs, connectionism, and more advanced neural network concepts will initially receive introductory or carefully scoped explanations. Their depth will depend on their relevance to the learning objectives and practical projects. The scope may be adjusted as the team reviews the learning sequence, identifies prerequisite knowledge, and tests the materials with beginner learners. Any major changes should be documented by the team.
-
-## 5. Planned Learning Resources
-
-### 5.1 Shared Markdown Content
-
-The Markdown files will be the shared content foundation for the Study Guide, PPT Slides, and Video Tutorials.
-
-- Chapters will be organized from foundational concepts to more advanced applications.
-- Each chapter will introduce key terms and explain fundamental concepts before using them in more complex contexts.
-- Explanations will use accessible language, everyday examples, step-by-step reasoning, and practical Python demonstrations where appropriate.
-- Short quizzes or practice questions will help learners check their understanding.
-- Mini-project tutorials will allow learners to apply concepts and connect ideas across the module.
-
-### 5.2 Study Guide and Test Bank
-
-The Study Guide will follow the shared Markdown content to maintain consistency across learning resources.
-
-Practice activities will include multiple-choice questions and step-by-step problem-solving tasks. Answers and explanations will allow learners to evaluate their own understanding. A final quiz game is planned to review the module's foundational concepts.
-
-### 5.3 PPT Slides and Video Tutorials
-
-PPT Slides will present the most important concepts through concise explanations, diagrams, and worked examples. Video Tutorials will demonstrate selected concepts and programming tasks step by step, particularly where seeing the process is more useful than reading a description.
-
-### 5.4 Mini Projects
-
-The planned mini projects are:
-
-- **Bubble Sort:** Apply algorithmic thinking and sorting logic in Python.
-- **BFS Maze Explorer:** Apply graph representation and breadth-first search to a maze-solving problem.
-- **Neural Network Classifier:** Explore how a neural network can use input data to produce a classification.
-
-Together, these projects are intended to connect theoretical explanations with practical applications. The exact implementation and difficulty level will be confirmed during development.
-
-## 6. Development and Quality Review
-
-The team will track the development status of each section using the following labels:
-
-- **Outline only:** The topic and planned coverage have been identified, but substantive explanations are not yet complete.
-- **Drafted:** Learning content has been written but has not completed the required review.
-- **Checked:** Another team member has reviewed the content, and the review outcome has been documented.
-- **Needs revision:** A review has identified a change that should be made.
-
-Before submission, the team will verify the accuracy of definitions, examples, exercises, answers, and references. At least one developed topic will receive a documented review by another team member.
-
-**Current outline status:** Working draft. Chapter-level statuses and review outcomes must be confirmed against the actual repository before submission.
+    + [OUTLINE ONLY] Chapter 17 → Preparation : Setting up Python environment
+    + [OUTLINE ONLY] Chapter 18 → Bubble Sort : Writing code with Python and evaluate result
+    + [OUTLINE ONLY] Chapter 19 → BFS Maze Explorer : Writing code with Python and evaluate result
+    + [OUTLINE ONLY] Chapter 20 → Neural Network Classifier : Writing code with Python and evaluate result
+  - Appendices [OUTLINE ONLY]
+    → Python quick reference (Syntax, operators, loops, functions, lists, dictionaries, queues)
+    → Complexity reference (Common Big O growth rates and example algorithms)
+    → Data structure (Operations, strengths, limitations, common uses )
+    → AI and Algorithm glossary (Key terms with concise definitions )
+    → Key answers for exercises 
+  - References [DRAFTED]
+### 3) Prerequisite Knowledge Learners Need
+  Learners are expected to be able to perform basic arithmetic formulas, understand mathematical relationships, and have experience on using a computer and AI in their life.
+### 4) Planned Examples, Demonstrations, Questions, or Activities
+  The study guide uses real-life cases and analogies or metaphors for examples, such as linking neural networks to brain neurons. It also has some multiple-questions on each chapter and game with questions, answers, and explanations in it inspired by Duolingo. Moreover, the study guide has mini projects based on the materials so learners not only have theoretical knowledge, but also practical skills.
+g draft. Chapter-level statuses and review outcomes must be confirmed against the actual repository before submission.
