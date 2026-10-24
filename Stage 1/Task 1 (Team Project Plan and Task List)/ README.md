@@ -91,6 +91,7 @@ After the Markdown content has been reviewed, the team will organize it into a c
 The team will test the study guide by asking members to use it as beginner learners and attempt the practice questions without relying on the answers. Feedback will be recorded, and corrections will be made to the shared Markdown source before updating the study guide and any related slides or video tutorials.
 
 2. Schedule
+
 **Stage 1: Planning and Scoping**
 - Internal Checkpoint: October 22, 2026
 - Official Deadline: October 24, 2026
