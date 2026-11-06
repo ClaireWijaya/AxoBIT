@@ -1,0 +1,442 @@
+**CHAPTER 1 - INTRODUCTION COMPUTER SCIENCE **
+
+1.  What is Computer Science? 
+
+- COMPUTER
+
+<img src="CHAPTER1_media/media/image1.png"
+style="width:1.75694in;height:1.75694in" />
+
+> Figure 1.1 - Computer
+>
+> Before getting further, what exactly is a computer? We always use it
+> in daily life, but do you really know what it is?
+>
+> A computer is a programmable device that stores, retrieves, and
+> processes data. 
+>
+> FUN FACT: The word ‘computer’ was actually given to HUMANS who were
+> able to perform numerical calculations using a mechanical device such
+> as an abacus. 
+>
+> <img src="CHAPTER1_media/media/image2.png"
+> style="width:2.54167in;height:1.32639in" />
+>
+> Figure 1.2 - Abacus
+>
+> The computer itself is made of physical materials, called hardware.
+> Hardware has 4 components to do computation, which are processor,
+> memory, network, and storage. 
+
+1.  Processor : Computer's 🧠 (brain), processing data input with
+    algorithms to create output
+
+2.  Memory : Address information in a computer and store it in
+    consistent locations
+
+3.  Network : The connection between several technological devices which
+    can share information
+
+4.  Storage : The hardware that permanently stores a computer's data
+
+> Besides hardware, there is something called software. Software
+> consists of programs and instructions written in a programming
+> language (such as Python, C, C++, Java) to process data and produce
+> results. 
+>
+> A brief history about computer : 
+
+1.  Calculating tool to perform arithmetic → Abacus
+
+2.  In the 19th century 
+
+> <img src="CHAPTER1_media/media/image3.png"
+> style="width:1.58333in;height:1.45139in" />
+>
+> Figure 1.3 - Charles Babbage
+>
+> Charles Babbage, “father of computing”, designed the Analytical Engine
+> (a mechanical computing machine that introduced important ideas
+> related to programmable computers). 
+>
+> <img src="CHAPTER1_media/media/image4.png"
+> style="width:1.61806in;height:2.30556in" />
+>
+> Figure 1.4 - Ada Lovelace
+>
+> Ada Lovelace → “A machine could perform a sequence of operations”,
+> first algorithm\* principle mentioned. She created an algorithm to
+> compute the Bernoulli numbers.
+
+1.  In the 20th century → ENIAC (Electronic Numerical Integrator and
+    Computer), one of the earliest electronic digital computers and was
+    originally used for the US Army. It used thousands of vacuum tubes
+    and required a large room to store it. 
+
+    <img src="CHAPTER1_media/media/image5.png"
+    style="width:2.56944in;height:2.04861in" />
+
+    Figure 1.5 - ENIAC
+
+<!-- -->
+
+1.  Transistors\*, Integrated Circuits\*, and Microprocessor\* made
+    computers size decreased, processing data much faster, and more
+    effectively. By then, computer development significantly increased.
+
+- COMPUTER SCIENCE → a study of computing 
+
+> <img src="CHAPTER1_media/media/image6.png"
+> style="width:2.55556in;height:1.42361in" />
+>
+> Figure 1.6 - Computer Science
+
+- 1961 → A mathematician George E. Forsythe (founded Stanford
+  University's computer science department) : “Computer Science is
+  defined as the theory of programming, numerical analysis, data
+  processing, and the design of computer systems”.
+
+> <img src="CHAPTER1_media/media/image7.png"
+> style="width:1.45833in;height:1.95139in" />
+>
+> Figure 1.7 - George E. Forsythe
+
+- Computer Science is focused on Algorithms that are effective on
+  computer programming. 
+
+- Computer Science NOT ONLY about computers. It involves the person who
+  design, write and test programs, also who are directly and indirectly
+  affected by computers. However, not all people agree on this statement
+
+> //btw place on the bottom on the study guide
+>
+> \#Notes : 
+>
+> \*An algorithm is a sequence of instructions that enables computing.
+> In a simple way, with an algorithm, an input can be processed step by
+> step to create an output. 
+>
+> \*Transistor is a semiconductor device used to amplify or switch
+> electrical signals and power
+>
+> \*Integrated Circuit is also called a chip, an electronic circuit that
+> is formed by electronic components, such as transistors, resistors,
+> and capacitors, and their interconnections.
+>
+> \*Microprocessor is an integrated circuit (IC) that contains all the
+> functions of a central processing unit (CPU) of a computer.
+
+2.  A Brief History of Computer Science - How the study of computation
+    became academic discipline 
+
+<!-- -->
+
+1.  After the brief computer history, researchers began exploring the
+    principles of computation, algorithms, and programming 
+
+2.  A Turing-complete computer is what almost all computers are
+    considered into. Where did it come from?
+
+- 1930s : Alan Mathison Turing is a very important mathematician figure
+  in the development of theoretical computer science who introduced the
+  Turing machine.
+
+> <img src="CHAPTER1_media/media/image8.png"
+> style="width:1.73611in;height:1.65972in" />
+>
+> Figure 1.8 - Alan Mathison Turing
+
+- Turing Machine is a model that explains a set of instructions a
+  machine can follow to process and solve problems.
+
+> <img src="CHAPTER1_media/media/image9.png"
+> style="width:4.46528in;height:2.5in" />
+>
+> Figure 1.9 - Turing Machine 
+
+- Turing-complete describes a system capable of performing any
+  computation that a Turing machine can perform.
+
+- This principle is how most computers work.
+
+1.  1950s - 1960s : computer science progressively became an established
+    academic discipline. 
+
+- In 1953 → The University of Cambridge introduced a Diploma in Computer
+  Science. 
+
+- In 1962 →  Purdue University established the first computer science
+  department in the US
+
+3.  Computer Science Interdisciplinary
+
+- Data Science
+
+> → Applies computing to extract and manage information from data
+
+- Do you know about spreadsheets? 
+
+> Spreadsheet is a simple example about Data Science where data is
+> organized into cells in a table and the table can be visualized in a
+> diagram. However, the shortcoming is that the spreadsheet has a limit
+> of row and column. 
+>
+> We might think the size limit is already more than enough for common
+> people to use. But think about how a country managed to report cases
+> about Covid-19 back then. Even in 2020, the Public Health England
+> failed to report 15,481 positive cases of Covid-19 due to row limits
+> in the spreadsheet. A large amount of data like this is called Big
+> Data, and data scientists are the ones who analyze it. 
+>
+> <img src="CHAPTER1_media/media/image10.png"
+> style="width:2.53472in;height:1.77083in" />
+>
+> Figure 1.10 - Spreadsheet
+
+- Have you ever thought how can your FYP change contents after you press
+  ‘like’ on a specific content?
+
+> <img src="CHAPTER1_media/media/image11.png"
+> style="width:2.0625in;height:1.09722in" />
+>
+> Figure 1.11 - FYP
+>
+> Actually, Artificial Intelligence (AI) does that!! Your browsing,
+> liked contents, and following accounts patterns become some data that
+> will be processed by Machine Learning, where the input data patterns
+> are being studied by a machine that AI can learn from. Machine
+> Learning studies like a human, we analyze patterns and generalize
+> them.
+
+- Computational Science
+
+> → The application of computing concepts in wide range of fields 
+
+- Do you usually check the weather prediction before going out?
+
+> Weather prediction relies on data, algorithm, and computing to
+> forecast weather based on the condition. Therefore, computational
+> science studies ways to use algorithms and computer software for
+> efficiency in human life. 
+>
+> <img src="CHAPTER1_media/media/image12.png"
+> style="width:2.49306in;height:1.79861in" />
+>
+> Figure 1.12 - Weather Forecast
+
+- Information Science
+
+> → Studies information technologies and systems that are related to
+> people, organizations, and societies
+
+- With social media, each person in the whole world could connect with
+  each other and have the latest news at the same time. Back then,
+  people used to get information from newspapers, while in modern days,
+  we can get up-to-date information by scrolling through our phone.
+
+4.  Soooo,
+
+> Computer science influences society through algorithms and Artificial
+> Intelligence. These can help solve problems in areas such as
+> agriculture, healthcare, and education. However, they can also produce
+> errors because of limitations or biases in their data. Therefore,
+> computer scientists should evaluate the effects of their technologies
+> and develop systems that are reliable, fair, and beneficial to
+> society.
+
+5.  Fun Axotivity!
+
+CROSSWORD PUZZLEEE
+
+**Across:**
+
+**2.** The application of computing concepts across a wide range of
+fields.
+
+**4.** The study of computing.
+
+**5.** The field that studies information technologies and systems
+related to people, organizations, and societies.
+
+**6.** An integrated circuit containing all the functions of a
+computer's CPU.
+
+**7.** Describes a system capable of performing any computation that a
+Turing machine can perform.
+
+**8.** A field that applies computing to extract and manage information
+from data.
+
+**9.** Semiconductor devices used to amplify or switch electrical
+signals and power.
+
+**10.** A field in which machines study patterns in input data and learn
+from them.
+
+**11.** A model that explains how a machine follows instructions to
+process and solve problems.
+
+**14.** A programmable device that stores, retrieves, and processes
+data.
+
+**19.** The person who created an algorithm to compute Bernoulli
+numbers.
+
+**23.** A tool that organizes data into cells in a table and has row and
+column limits.
+
+  <img src="CHAPTER1_media/media/image13.png"
+style="width:5.16667in;height:3.80556in" />
+
+**Down:**
+
+**1.** An electronic circuit formed by interconnected electronic
+components, also called a chip.
+
+**3.** Two potential causes of errors or unfair results in computer
+systems.
+
+**7.** The mathematician who introduced the Turing machine in the 1930s.
+
+**12.** Computer hardware that processes data input using algorithms to
+create output.
+
+**13.** Programs and instructions written in programming languages to
+process data and produce results.
+
+**15.** The physical components of a computer.
+
+**16.** The designer of the Analytical Engine, known as the "father of
+computing."
+
+**17.** A calculating tool used before modern computers.
+
+**18.** A sequence of instructions that enables computing.
+
+**20.** Hardware that permanently stores a computer's data.
+
+**21.** One of the earliest electronic digital computers, originally
+used for the US Army.
+
+**22.** A large amount of data that data scientists analyze.
+
+**Key Answer**
+
+<img src="CHAPTER1_media/media/image14.png"
+style="width:4.91667in;height:3.69444in" />
+
+6.  QnA Timeee!
+
+1\. What is the main difference between hardware and software?
+
+A. Hardware processes data, while software stores data permanently.
+
+> B. Hardware consists of physical components, while software consists
+> of programs and instructions.
+>
+> C. Hardware and software are both physical components.
+>
+> D. Hardware is used only for networks, while software is used only for
+> storage.
+
+2\. Why is ENIAC important in computer history?
+
+> A. It was the first personal computer available to the public.
+>
+> B. It introduced the first programming language, Python.
+>
+> C. It was one of the earliest electronic digital computers and was
+> originally developed for the US Army.
+>
+> D. It was the first computer to use artificial intelligence.
+
+3.  What does a Turing machine demonstrate?
+
+    A. How a machine can follow instructions to process information and
+    solve problems.
+
+    B. How to build a computer using integrated circuits.
+
+    C. How computers connect to the Internet.
+
+    D. How to store files in a spreadsheet.
+
+<!-- -->
+
+1.  How does machine learning help personalize social media content?
+
+> A. By randomly selecting posts for every user.
+>
+> B. By increasing the number of accounts a user follows.
+>
+> C. By automatically creating new social media accounts.
+>
+> D. By analyzing patterns in user data to recommend potentially
+> interesting content.
+
+1.  Which of the following is a potential risk of computer science
+    technology?
+
+> A. Computers can only process numerical data.
+>
+> B. Computer systems can produce errors or unfair results because of
+> limitations or biases in their data.
+>
+> C. Computers cannot help solve problems in healthcare.
+>
+> D. Algorithms cannot be used to solve real-world problems.
+
+- Answer Key
+
+1.  B
+
+2.  C
+
+3.  A
+
+4.  D
+
+5.  B
+
+References : 
+
+- [What Is a
+  Computer?](https://www.computerhope.com/jargon/c/computer.htm) 
+
+<!-- -->
+
+- [Ch. 1 Introduction - Introduction to Computer Science \|
+  OpenStax](https://openstax.org/books/introduction-computer-science/pages/1-introduction) 
+
+- [Computer science -
+  Wikipedia](https://en.wikipedia.org/wiki/Computer_science) 
+
+Image References
+
+- Figure 1.1 - Computer : <https://sl.bing.net/cJloFEdO9T2>
+
+- Figure 1.2 - Abacus : <https://sl.bing.net/j5DaIqjyikK>
+
+- Figure 1.3 - Charles Babbage : <https://sl.bing.net/giQcgyDAqMm>
+
+- Figure 1.4 - Ada Lovelace : <https://sl.bing.net/dhoYGZV8tuS>
+
+- Figure 1.5 - ENIAC : [1.1 Computer Science - Introduction to Computer
+  Science \|
+  OpenStax](https://openstax.org/books/introduction-computer-science/pages/1-1-computer-science) 
+
+- Figure 1.6 - Computer Science : <https://sl.bing.net/j12uqWuyjZc>
+
+- Figure 1.7 - George E. Forsythe : <https://sl.bing.net/c0KVtFnDvZk>
+
+- Figure 1.8 - Alan Mathison Turing : <https://sl.bing.net/cs2F0LxCnMO>
+
+- Figure 1.9 - Turing Machine : <https://sl.bing.net/hDMUzCvh8Me>
+
+- Figure 1.10 - Spreadsheet : <https://sl.bing.net/lWyYYD7CAm>
+
+- Figure 1.11 - FYP : <https://sl.bing.net/kY34UhIuPvM>
+
+- Figure 1.12 - Weather Forecast : [1.2 Computer Science across the
+  Disciplines - Introduction to Computer Science \|
+  OpenStax](https://openstax.org/books/introduction-computer-science/pages/1-2-computer-science-across-the-disciplines) 
