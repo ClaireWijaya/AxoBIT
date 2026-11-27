@@ -43,6 +43,8 @@ The learning content is organized into six sections, following a logical progres
 
 ## 5. Repository Structure
 
+The AxoBIT repository is organized to support structured learning, collaborative project development, and easy access to educational resources.
+
 ```text
 AxoBIT/
 │
@@ -57,12 +59,38 @@ AxoBIT/
 │
 ├── 02_Markdown_Content/
 │   ├── README.md
+│   │
 │   ├── 01_Foundations/
+│   │   ├── CHAPTER 1.md    # Introduction to Computer Science
+│   │   ├── CHAPTER 2.md    # Computational Thinking
+│   │   └── CHAPTER 3.md    # Python Foundations
+│   │
 │   ├── 02_Data_Structures/
+│   │   ├── CHAPTER 4.md    # Introduction to Data Structures
+│   │   ├── CHAPTER 5.md    # Fundamental Data Structures
+│   │   └── CHAPTER 6.md    # Advanced Data Structures
+│   │
 │   ├── 03_Algorithms/
+│   │   ├── CHAPTER 7.md    # Introduction to Algorithms
+│   │   ├── CHAPTER 8.md    # Searching and Sorting
+│   │   ├── CHAPTER 9.md    # Algorithm Analysis
+│   │   └── CHAPTER 10.md   # Recursion and Graphs
+│   │
 │   ├── 04_AI_and_Machine_Learning/
+│   │   ├── CHAPTER 11.md   # Introduction to Artificial Intelligence
+│   │   ├── CHAPTER 12.md   # Machine Learning
+│   │   └── CHAPTER 13.md   # Model Evaluation
+│   │
 │   ├── 05_Connectionist_AI/
+│   │   ├── CHAPTER 14.md   # Connectionism
+│   │   ├── CHAPTER 15.md   # Neural Network Architecture
+│   │   └── CHAPTER 16.md   # Neural Network Training and Evaluation
+│   │
 │   └── 06_Mini_Projects/
+│       ├── CHAPTER 17.md   # Project Preparation
+│       ├── CHAPTER 18.md   # Bubble Sort
+│       ├── CHAPTER 19.md   # BFS Maze Explorer
+│       └── CHAPTER 20.md   # Neural Network Classifier
 │
 ├── 03_Learning_Resources/
 │   ├── PPT_Slides/
@@ -73,9 +101,10 @@ AxoBIT/
 │
 └── 04_Submission_Evidence/
     ├── Repository_Evidence/
-    ├── Content_Review/
-    └── Team_Contributions/
+    └── Content_Review/
 ```
+
+> Chapter-specific media folders are stored alongside their corresponding Markdown files to support embedded images, diagrams, and illustrations.
 
 ### Directory Description
 
