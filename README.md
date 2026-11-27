@@ -95,8 +95,8 @@ AxoBIT/
 ├── 03_Learning_Resources/
 │   ├── PPT_Slides/
 │   ├── Video_Tutorials/
-│   ├── Images/
-│   ├── Diagrams/
+│   ├── Study_Guide/
+│   ├── Test_Bank/
 │   └── References/
 │
 └── 04_Submission_Evidence/
