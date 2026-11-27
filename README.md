@@ -36,7 +36,7 @@ The learning content is organized into six sections, following a logical progres
 |---|---|
 | [01. Foundations](02_Markdown_Content/01_Foundation) | Introduction to Computer Science, Computational Thinking, Python Foundations |
 | [02. Data Structures](02_Markdown_Content/02_Data_Structures) | Introduction, Fundamental Data Structures, Advanced Data Structures |
-| 03. [Algorithms](02_Markdown_Content/03_Algorithms) | Introduction, Searching and Sorting, Algorithm Analysis, Recursion and Graphs |
+| [03. Algorithms](02_Markdown_Content/03_Algorithms) | Introduction, Searching and Sorting, Algorithm Analysis, Recursion and Graphs |
 | [04. AI and Machine Learning](02_Markdown_Content/04_AI_and_Machine_Learning) | Introduction to AI, Machine Learning, Model Evaluation |
 | [05. Connectionist AI](02_Markdown_Content/05_Connectionist_AI) | Connectionism, Neural Network Architecture, Training and Evaluation |
 | [06. Mini Projects](02_Markdown_Content/06_Mini_Projects) | Project Preparation, Bubble Sort, BFS Maze Explorer, Neural Network Classifier |
