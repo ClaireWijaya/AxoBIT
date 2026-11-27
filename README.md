@@ -34,7 +34,7 @@ The learning content is organized into six sections, following a logical progres
 
 | Section | Topics |
 |---|---|
-| 01. Foundations | Introduction to Computer Science, Computational Thinking, Python Foundations |
+| [01. Foundations](02_Markdown_Content/01_Foundation) | Introduction to Computer Science, Computational Thinking, Python Foundations |
 | 02. Data Structures | Introduction, Fundamental Data Structures, Advanced Data Structures |
 | 03. Algorithms | Introduction, Searching and Sorting, Algorithm Analysis, Recursion and Graphs |
 | 04. AI and Machine Learning | Introduction to AI, Machine Learning, Model Evaluation |
