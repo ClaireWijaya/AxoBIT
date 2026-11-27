@@ -115,7 +115,32 @@ AxoBIT/
 | `03_Learning_Resources` | Supporting materials, including PPT slides, video tutorials, diagrams, images, references, and mini-project resources. |
 | `04_Submission_Evidence` | Evidence of repository development, content reviews, and team contributions. |
 
-## 6. Project Plan and Progress
+## 6. Learning Resources
+
+AxoBIT provides complementary learning resources designed to support independent learning, classroom instruction, practical application, and self-assessment.
+
+All supplementary materials can be accessed through the [Learning Resources Directory](https://github.com/ClaireWijaya/AxoBIT/tree/6ccc2cda61a1b6fc2194ed92ce54b06f80c11537/03_Learning_Resources).
+
+| Learning Resource | Description | Recommended Usage |
+|---|---|---|
+| [Study Guide](https://github.com/ClaireWijaya/AxoBIT/blob/6ccc2cda61a1b6fc2194ed92ce54b06f80c11537/03_Learning_Resources/Study_Guide) | A comprehensive 20-chapter learning guide containing beginner-friendly explanations, worked examples, diagrams, programming demonstrations, and practical activities. | Independent learning and in-depth understanding. |
+| [Test Bank](https://github.com/ClaireWijaya/AxoBIT/blob/6ccc2cda61a1b6fc2194ed92ce54b06f80c11537/03_Learning_Resources/Test_Bank) | Assessment materials designed to evaluate conceptual understanding and practical application. | Self-assessment, revision, and knowledge reinforcement. |
+| [PPT Slides](https://github.com/ClaireWijaya/AxoBIT/blob/6ccc2cda61a1b6fc2194ed92ce54b06f80c11537/03_Learning_Resources/PPT_Slides) | Structured presentation slides highlighting essential concepts, visual explanations, and practical examples across the module. | Classroom instruction and topic overviews. |
+| [Video Tutorials](https://github.com/ClaireWijaya/AxoBIT/blob/6ccc2cda61a1b6fc2194ed92ce54b06f80c11537/03_Learning_Resources/Video_Tutorials) | Visual demonstrations and guided explanations of selected concepts and algorithmic processes. | Understanding difficult concepts through step-by-step demonstrations. |
+| [References](https://github.com/ClaireWijaya/AxoBIT/blob/6ccc2cda61a1b6fc2194ed92ce54b06f80c11537/03_Learning_Resources/References) | Supporting academic references, educational sources, and material attribution. | Further reading and information verification. |
+
+### Recommended Learning Approach
+
+1. **Preview** — Use the PPT Slides to understand the main ideas and learning objectives.
+2. **Understand** — Read the corresponding chapters in the Study Guide or Markdown content.
+3. **Explore** — Watch the relevant Video Tutorials to visualize selected concepts and processes.
+4. **Apply** — Complete the worked examples, learning activities, and mini-projects.
+5. **Evaluate** — Use the Test Bank to assess your understanding and identify areas for improvement.
+6. **Review** — Revisit challenging topics and consult the References for further learning.
+
+These resources are designed to complement one another while maintaining consistent terminology, foundational concepts, and learning objectives.
+
+## 7. Project Plan and Progress
 
 The project is organized into three development stages:
 
